@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## Nithio
-
 # New notebook
 
 
@@ -92,9 +90,9 @@ account_schema = StructType([
 
 ## Define Paths
 
-transaction_path="Files/Nithio/SunCompany_payments_data.csv"
-accounts_path="Files/Nithio/SunCompany_accounts_data.csv"
-output_dir = "Files/Nithio"
+transaction_path="Files/data.csv"
+accounts_path="Files/data.csv"
+output_dir = "Files/data"
 
 ## Extraction Layer
 
